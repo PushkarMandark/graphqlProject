@@ -1,0 +1,17 @@
+---------------- Queries ---------
+
+
+query getAllUsers{
+users{
+  id
+  firstName
+}
+}
+
+
+query getQutoes{
+qoutes{
+  name
+  by
+}
+}
